@@ -50,12 +50,7 @@ such as call duration, number of contacts, and previous campaign outcome).
 - Use **data-driven targeting** instead of contacting all clients equally.
 
 ---
-### 📁Project Structure
-
-Python_Project/
- └── UCI_Bank_Marketing.ipynb
----
 ### 🚀 How to Run
 
-Open the notebook in Jupyter Notebook or Google Colab and run all cells from top to bottom.
+Open the notebook in Jupyter Notebook or Google Colab and run **UCI Bank Marketing Project**, Import dataset, click run all.
 
