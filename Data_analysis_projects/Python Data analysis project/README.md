@@ -41,7 +41,7 @@ such as call duration, number of contacts, and previous campaign outcome).
 - **Month of contact** and **previous campaign outcome** have a strong impact on success.
 
 ---
-###💡 Business Recommendations
+### 💡 Business Recommendations
 
 - Focus on high-potential segments **(students, retired, higher balance clients)**.
 - Prioritize **quality of calls over quantity.** Fewer, more meaningful calls perform better.
