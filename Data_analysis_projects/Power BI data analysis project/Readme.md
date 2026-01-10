@@ -45,6 +45,7 @@ It covers sales across five regions (West, Northeast, Southeast, South, and Midw
 <img width="1000" height="645" alt="Screenshot 2026-01-10 092143" src="https://github.com/user-attachments/assets/137b0812-8651-41bf-8e5b-7fa21931c38c" />
 
 
+#### Key Metrics
 - Total Revenue: $899.90M
 - Total Unit Sold: 2.48M
 - Operating Profit: $332.13M
