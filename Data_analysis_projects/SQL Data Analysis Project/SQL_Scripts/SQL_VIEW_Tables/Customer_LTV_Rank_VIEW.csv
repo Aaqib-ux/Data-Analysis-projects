@@ -1,0 +1,600 @@
+customer_id,first_name,last_name,email,country,Total_spent,Country_rank,overall_rank
+526,KARL,SEAL,KARL.SEAL@sakilacustomer.org,"United States",221.55,1,1
+148,ELEANOR,HUNT,ELEANOR.HUNT@sakilacustomer.org,Réunion,216.54,1,2
+144,CLARA,SHAW,CLARA.SHAW@sakilacustomer.org,Belarus,195.58,1,3
+178,MARION,SNYDER,MARION.SNYDER@sakilacustomer.org,Brazil,194.61,1,4
+137,RHONDA,KENNEDY,RHONDA.KENNEDY@sakilacustomer.org,Netherlands,194.61,1,4
+459,TOMMY,COLLAZO,TOMMY.COLLAZO@sakilacustomer.org,Iran,186.62,1,6
+469,WESLEY,BULL,WESLEY.BULL@sakilacustomer.org,Spain,177.60,1,7
+468,TIM,CARY,TIM.CARY@sakilacustomer.org,India,175.61,1,8
+236,MARCIA,DEAN,MARCIA.DEAN@sakilacustomer.org,Philippines,175.58,1,9
+181,ANA,BRADLEY,ANA.BRADLEY@sakilacustomer.org,"United States",174.66,2,10
+176,JUNE,CARROLL,JUNE.CARROLL@sakilacustomer.org,Algeria,173.63,1,11
+50,DIANE,COLLINS,DIANE.COLLINS@sakilacustomer.org,Sudan,169.65,1,12
+259,LENA,JENSEN,LENA.JENSEN@sakilacustomer.org,India,168.68,2,13
+522,ARNOLD,HAVENS,ARNOLD.HAVENS@sakilacustomer.org,Philippines,167.67,2,14
+410,CURTIS,IRBY,CURTIS.IRBY@sakilacustomer.org,Canada,167.62,1,15
+403,MIKE,WAY,MIKE.WAY@sakilacustomer.org,India,166.65,3,16
+295,DAISY,BATES,DAISY.BATES@sakilacustomer.org,"Russian Federation",162.62,1,17
+209,TONYA,CHAPMAN,TONYA.CHAPMAN@sakilacustomer.org,India,161.68,4,18
+373,LOUIS,LEONE,LOUIS.LEONE@sakilacustomer.org,Philippines,161.65,3,19
+470,GORDON,ALLARD,GORDON.ALLARD@sakilacustomer.org,Yemen,160.68,1,20
+187,BRITTANY,RILEY,BRITTANY.RILEY@sakilacustomer.org,Ukraine,159.72,1,21
+550,GUY,BROWNLEE,GUY.BROWNLEE@sakilacustomer.org,China,159.68,1,22
+462,WARREN,SHERROD,WARREN.SHERROD@sakilacustomer.org,"Russian Federation",159.67,2,23
+267,MARGIE,WADE,MARGIE.WADE@sakilacustomer.org,China,159.64,2,24
+293,MAE,FLETCHER,MAE.FLETCHER@sakilacustomer.org,Spain,158.69,2,25
+372,STEVE,MACKENZIE,STEVE.MACKENZIE@sakilacustomer.org,Indonesia,158.66,1,26
+368,HARRY,ARCE,HARRY.ARCE@sakilacustomer.org,Iran,157.65,2,27
+273,PRISCILLA,LOWE,PRISCILLA.LOWE@sakilacustomer.org,Mexico,157.65,1,27
+346,ARTHUR,SIMPKINS,ARTHUR.SIMPKINS@sakilacustomer.org,"Russian Federation",155.68,3,29
+21,MICHELLE,CLARK,MICHELLE.CLARK@sakilacustomer.org,Bangladesh,155.65,1,30
+75,TAMMY,SANDERS,TAMMY.SANDERS@sakilacustomer.org,Taiwan,155.59,1,31
+197,SUE,PETERS,SUE.PETERS@sakilacustomer.org,China,154.60,3,32
+119,SHERRY,MARSHALL,SHERRY.MARSHALL@sakilacustomer.org,Egypt,153.66,1,33
+532,NEIL,RENNER,NEIL.RENNER@sakilacustomer.org,Vietnam,152.68,1,34
+390,SHAWN,HEATON,SHAWN.HEATON@sakilacustomer.org,Thailand,152.67,1,35
+26,JESSICA,HALL,JESSICA.HALL@sakilacustomer.org,"Holy See (Vatican City State)",152.66,1,36
+274,NAOMI,JENNINGS,NAOMI.JENNINGS@sakilacustomer.org,India,152.65,5,37
+506,LESLIE,SEWARD,LESLIE.SEWARD@sakilacustomer.org,Indonesia,152.65,2,37
+366,BRANDON,HUEY,BRANDON.HUEY@sakilacustomer.org,Turkey,152.63,1,39
+454,ALEX,GRESHAM,ALEX.GRESHAM@sakilacustomer.org,Mexico,151.67,2,40
+7,MARIA,MILLER,MARIA.MILLER@sakilacustomer.org,Yugoslavia,151.67,1,40
+211,STACEY,MONTGOMERY,STACEY.MONTGOMERY@sakilacustomer.org,China,151.66,4,42
+196,ALMA,AUSTIN,ALMA.AUSTIN@sakilacustomer.org,Germany,151.65,1,43
+439,ALEXANDER,FENNELL,ALEXANDER.FENNELL@sakilacustomer.org,Italy,151.64,1,44
+257,MARSHA,DOUGLAS,MARSHA.DOUGLAS@sakilacustomer.org,Mozambique,151.63,1,45
+360,RALPH,MADRIGAL,RALPH.MADRIGAL@sakilacustomer.org,"Puerto Rico",150.66,1,46
+371,BILLY,POULIN,BILLY.POULIN@sakilacustomer.org,Philippines,149.65,4,47
+513,DUANE,TUBBS,DUANE.TUBBS@sakilacustomer.org,Nauru,148.69,1,48
+86,JACQUELINE,LONG,JACQUELINE.LONG@sakilacustomer.org,Thailand,148.67,2,49
+309,CHRISTOPHER,GRECO,CHRISTOPHER.GRECO@sakilacustomer.org,Italy,147.69,2,50
+204,ROSEMARY,SCHMIDT,ROSEMARY.SCHMIDT@sakilacustomer.org,Turkey,147.65,2,51
+103,GLADYS,HAMILTON,GLADYS.HAMILTON@sakilacustomer.org,Nigeria,146.69,1,52
+479,ZACHARY,HITE,ZACHARY.HITE@sakilacustomer.org,"United States",146.69,3,52
+348,ROGER,QUINTANILLA,ROGER.QUINTANILLA@sakilacustomer.org,Taiwan,146.64,2,54
+87,WANDA,PATTERSON,WANDA.PATTERSON@sakilacustomer.org,Colombia,145.70,1,55
+362,NICHOLAS,BARFIELD,NICHOLAS.BARFIELD@sakilacustomer.org,Brazil,145.68,2,56
+172,BERNICE,WILLIS,BERNICE.WILLIS@sakilacustomer.org,Turkey,145.67,3,57
+436,TROY,QUIGLEY,TROY.QUIGLEY@sakilacustomer.org,Canada,144.70,2,58
+277,OLGA,JIMENEZ,OLGA.JIMENEZ@sakilacustomer.org,Nigeria,144.68,2,59
+237,TANYA,GILBERT,TANYA.GILBERT@sakilacustomer.org,"South Korea",144.67,1,60
+66,JANICE,WARD,JANICE.WARD@sakilacustomer.org,Sweden,144.66,1,61
+5,ELIZABETH,BROWN,ELIZABETH.BROWN@sakilacustomer.org,Taiwan,144.62,3,62
+337,JERRY,JORDON,JERRY.JORDON@sakilacustomer.org,Japan,143.71,1,63
+363,ROY,WHITING,ROY.WHITING@sakilacustomer.org,Kenya,143.71,1,63
+120,SYLVIA,ORTIZ,SYLVIA.ORTIZ@sakilacustomer.org,Colombia,143.68,2,65
+289,VIOLET,RODRIQUEZ,VIOLET.RODRIQUEZ@sakilacustomer.org,"Hong Kong",142.70,1,66
+347,RYAN,SALISBURY,RYAN.SALISBURY@sakilacustomer.org,Latvia,142.70,1,66
+239,MINNIE,ROMERO,MINNIE.ROMERO@sakilacustomer.org,Indonesia,142.66,3,68
+46,CATHERINE,CAMPBELL,CATHERINE.CAMPBELL@sakilacustomer.org,"Russian Federation",142.66,4,68
+39,DEBRA,NELSON,DEBRA.NELSON@sakilacustomer.org,Brazil,141.71,3,70
+472,GREG,ROBINS,GREG.ROBINS@sakilacustomer.org,Vietnam,141.70,2,71
+78,LORI,WOOD,LORI.WOOD@sakilacustomer.org,India,141.69,6,72
+533,JESSIE,MILAM,JESSIE.MILAM@sakilacustomer.org,China,141.67,5,73
+84,SARA,PERRY,SARA.PERRY@sakilacustomer.org,Mexico,141.67,3,73
+566,CASEY,MENA,CASEY.MENA@sakilacustomer.org,Turkey,141.66,4,75
+198,ELSIE,KELLEY,ELSIE.KELLEY@sakilacustomer.org,Nigeria,141.63,3,76
+494,RAMON,CHOATE,RAMON.CHOATE@sakilacustomer.org,Ecuador,140.69,1,77
+242,GLENDA,FRAZIER,GLENDA.FRAZIER@sakilacustomer.org,China,140.68,6,78
+29,ANGELA,HERNANDEZ,ANGELA.HERNANDEZ@sakilacustomer.org,Japan,140.64,2,79
+467,ALVIN,DELOACH,ALVIN.DELOACH@sakilacustomer.org,Mexico,139.71,4,80
+146,JAMIE,RICE,JAMIE.RICE@sakilacustomer.org,"United States",139.71,4,80
+484,ROBERTO,VU,ROBERTO.VU@sakilacustomer.org,China,139.70,7,82
+404,STANLEY,SCROGGINS,STANLEY.SCROGGINS@sakilacustomer.org,Japan,139.70,3,82
+114,GRACE,ELLIS,GRACE.ELLIS@sakilacustomer.org,Germany,139.67,2,84
+576,MORRIS,MCCARTER,MORRIS.MCCARTER@sakilacustomer.org,Taiwan,139.66,4,85
+482,MAURICE,CRAWLEY,MAURICE.CRAWLEY@sakilacustomer.org,Mexico,138.71,5,86
+349,JOE,GILLILAND,JOE.GILLILAND@sakilacustomer.org,Philippines,138.71,5,86
+306,CHARLES,KOWALSKI,CHARLES.KOWALSKI@sakilacustomer.org,Malaysia,138.68,1,88
+51,ALICE,STEWART,ALICE.STEWART@sakilacustomer.org,"United States",138.67,5,89
+502,BRETT,CORNWELL,BRETT.CORNWELL@sakilacustomer.org,India,138.66,7,90
+80,MARILYN,ROSS,MARILYN.ROSS@sakilacustomer.org,Nigeria,137.70,4,91
+300,JOHN,FARNSWORTH,JOHN.FARNSWORTH@sakilacustomer.org,India,137.69,8,92
+210,ELLA,OLIVER,ELLA.OLIVER@sakilacustomer.org,Yemen,137.69,2,92
+102,CRYSTAL,FORD,CRYSTAL.FORD@sakilacustomer.org,Israel,137.67,1,94
+207,GERTRUDE,CASTILLO,GERTRUDE.CASTILLO@sakilacustomer.org,Greenland,137.66,1,95
+200,JEANNE,LAWSON,JEANNE.LAWSON@sakilacustomer.org,Turkmenistan,136.73,1,96
+380,RUSSELL,BRINSON,RUSSELL.BRINSON@sakilacustomer.org,Poland,136.64,1,97
+3,LINDA,WILLIAMS,LINDA.WILLIAMS@sakilacustomer.org,Greece,135.74,1,98
+285,MIRIAM,MCKINNEY,MIRIAM.MCKINNEY@sakilacustomer.org,Japan,135.74,4,98
+558,JIMMIE,EGGLESTON,JIMMIE.EGGLESTON@sakilacustomer.org,Poland,135.72,2,100
+448,MIGUEL,BETANCOURT,MIGUEL.BETANCOURT@sakilacustomer.org,Germany,135.71,3,101
+334,RAYMOND,MCWHORTER,RAYMOND.MCWHORTER@sakilacustomer.org,Azerbaijan,135.70,1,102
+56,GLORIA,COOK,GLORIA.COOK@sakilacustomer.org,"French Polynesia",135.70,1,102
+279,DIANNE,SHELTON,DIANNE.SHELTON@sakilacustomer.org,Iran,135.69,3,104
+535,JAVIER,ELROD,JAVIER.ELROD@sakilacustomer.org,Chad,135.68,1,105
+125,ETHEL,WEBB,ETHEL.WEBB@sakilacustomer.org,"South Africa",135.68,1,105
+168,REGINA,BERRY,REGINA.BERRY@sakilacustomer.org,China,135.66,8,107
+591,KENT,ARSENAULT,KENT.ARSENAULT@sakilacustomer.org,Brazil,134.73,4,108
+307,JOSEPH,JOY,JOSEPH.JOY@sakilacustomer.org,Brazil,134.70,5,109
+89,JULIA,FLORES,JULIA.FLORES@sakilacustomer.org,Argentina,134.68,1,110
+569,DAVE,GARDINER,DAVE.GARDINER@sakilacustomer.org,China,134.68,9,110
+15,HELEN,HARRIS,HELEN.HARRIS@sakilacustomer.org,India,134.68,9,110
+520,MITCHELL,WESTMORELAND,MITCHELL.WESTMORELAND@sakilacustomer.org,Vietnam,134.68,3,110
+438,BARRY,LOVELACE,BARRY.LOVELACE@sakilacustomer.org,Zambia,134.67,1,114
+473,JORGE,OLIVARES,JORGE.OLIVARES@sakilacustomer.org,Indonesia,134.66,4,115
+433,DON,BONE,DON.BONE@sakilacustomer.org,Mozambique,133.75,2,116
+59,CHERYL,MURPHY,CHERYL.MURPHY@sakilacustomer.org,India,133.73,10,117
+92,TINA,SIMMONS,TINA.SIMMONS@sakilacustomer.org,Brazil,133.72,6,118
+504,NATHANIEL,ADAM,NATHANIEL.ADAM@sakilacustomer.org,"United States",133.72,6,118
+265,JENNIE,TERRY,JENNIE.TERRY@sakilacustomer.org,"Czech Republic",133.71,1,120
+179,DANA,HART,DANA.HART@sakilacustomer.org,"Russian Federation",133.71,5,120
+112,ROSA,REYNOLDS,ROSA.REYNOLDS@sakilacustomer.org,"United States",133.70,7,122
+221,BESSIE,MORRISON,BESSIE.MORRISON@sakilacustomer.org,Italy,132.72,3,123
+316,STEVEN,CURLEY,STEVEN.CURLEY@sakilacustomer.org,India,132.71,11,124
+560,JORDAN,ARCHULETA,JORDAN.ARCHULETA@sakilacustomer.org,Argentina,132.70,2,125
+108,TRACY,COLE,TRACY.COLE@sakilacustomer.org,Mexico,132.70,6,125
+319,RONALD,WEINER,RONALD.WEINER@sakilacustomer.org,Mexico,132.70,6,125
+245,COURTNEY,DAY,COURTNEY.DAY@sakilacustomer.org,"South Korea",132.68,2,128
+13,KAREN,JACKSON,KAREN.JACKSON@sakilacustomer.org,Turkey,131.73,5,129
+299,JAMES,GANNON,JAMES.GANNON@sakilacustomer.org,Japan,131.70,5,130
+314,GEORGE,LINTON,GEORGE.LINTON@sakilacustomer.org,Brazil,131.67,7,131
+82,KATHRYN,COLEMAN,KATHRYN.COLEMAN@sakilacustomer.org,Ukraine,130.74,2,132
+594,EDUARDO,HIATT,EDUARDO.HIATT@sakilacustomer.org,China,130.73,10,133
+49,JOYCE,EDWARDS,JOYCE.EDWARDS@sakilacustomer.org,"Saudi Arabia",130.72,1,134
+154,MICHELE,GRANT,MICHELE.GRANT@sakilacustomer.org,China,130.70,11,135
+342,HAROLD,MARTINO,HAROLD.MARTINO@sakilacustomer.org,Brazil,130.68,8,136
+141,DEBBIE,REYES,DEBBIE.REYES@sakilacustomer.org,Japan,130.68,6,136
+589,TRACY,HERRMANN,TRACY.HERRMANN@sakilacustomer.org,Ecuador,129.72,2,138
+497,GILBERT,SLEDGE,GILBERT.SLEDGE@sakilacustomer.org,"United Kingdom",129.72,1,138
+584,SALVADOR,TEEL,SALVADOR.TEEL@sakilacustomer.org,Gambia,129.70,1,140
+296,RAMONA,HALE,RAMONA.HALE@sakilacustomer.org,India,129.70,12,140
+71,KATHY,JAMES,KATHY.JAMES@sakilacustomer.org,Philippines,129.70,6,140
+269,CASSANDRA,WALTERS,CASSANDRA.WALTERS@sakilacustomer.org,"United States",129.70,8,140
+35,VIRGINIA,GREEN,VIRGINIA.GREEN@sakilacustomer.org,France,129.68,1,144
+244,VIOLA,HANSON,VIOLA.HANSON@sakilacustomer.org,Philippines,129.68,7,144
+354,JUSTIN,NGO,JUSTIN.NGO@sakilacustomer.org,Brazil,129.64,9,146
+434,EDDIE,TOMLIN,EDDIE.TOMLIN@sakilacustomer.org,Philippines,128.73,8,147
+2,PATRICIA,JOHNSON,PATRICIA.JOHNSON@sakilacustomer.org,"United States",128.73,9,147
+322,JASON,MORRISSEY,JASON.MORRISSEY@sakilacustomer.org,Argentina,128.72,3,149
+54,TERESA,ROGERS,TERESA.ROGERS@sakilacustomer.org,Japan,128.71,7,150
+131,MONICA,HICKS,MONICA.HICKS@sakilacustomer.org,Ukraine,128.70,3,151
+297,SHERRI,RHODES,SHERRI.RHODES@sakilacustomer.org,India,128.67,13,152
+451,JIM,REA,JIM.REA@sakilacustomer.org,Mexico,128.67,8,152
+508,MILTON,HOWLAND,MILTON.HOWLAND@sakilacustomer.org,India,127.75,14,154
+45,JANET,PHILLIPS,JANET.PHILLIPS@sakilacustomer.org,Chile,127.73,1,155
+302,MICHAEL,SILVERMAN,MICHAEL.SILVERMAN@sakilacustomer.org,China,127.71,12,156
+32,AMY,LOPEZ,AMY.LOPEZ@sakilacustomer.org,India,127.71,15,156
+253,TERRY,CARLSON,TERRY.CARLSON@sakilacustomer.org,Japan,127.71,8,156
+339,WALTER,PERRYMAN,WALTER.PERRYMAN@sakilacustomer.org,China,127.70,13,159
+329,FRANK,WAGGONER,FRANK.WAGGONER@sakilacustomer.org,Bangladesh,127.68,2,160
+128,MARJORIE,TUCKER,MARJORIE.TUCKER@sakilacustomer.org,Poland,127.68,3,160
+147,JOANNE,ROBERTSON,JOANNE.ROBERTSON@sakilacustomer.org,Japan,127.66,9,162
+38,MARTHA,GONZALEZ,MARTHA.GONZALEZ@sakilacustomer.org,Moldova,127.66,1,162
+206,TERRI,VASQUEZ,TERRI.VASQUEZ@sakilacustomer.org,Brazil,126.73,10,164
+426,BRADLEY,MOTLEY,BRADLEY.MOTLEY@sakilacustomer.org,India,126.73,16,164
+515,ANDRE,RAPP,ANDRE.RAPP@sakilacustomer.org,Chile,126.72,2,166
+284,SONIA,GREGORY,SONIA.GREGORY@sakilacustomer.org,Nigeria,126.72,5,166
+575,ISAAC,OGLESBY,ISAAC.OGLESBY@sakilacustomer.org,Mexico,126.71,9,168
+565,JAIME,NETTLES,JAIME.NETTLES@sakilacustomer.org,Peru,126.71,1,168
+107,FLORENCE,WOODS,FLORENCE.WOODS@sakilacustomer.org,Argentina,126.70,4,170
+27,SHIRLEY,ALLEN,SHIRLEY.ALLEN@sakilacustomer.org,Philippines,126.69,9,171
+122,THELMA,MURRAY,THELMA.MURRAY@sakilacustomer.org,Peru,126.68,2,172
+158,VERONICA,STONE,VERONICA.STONE@sakilacustomer.org,"United States",126.68,10,172
+19,RUTH,MARTINEZ,RUTH.MARTINEZ@sakilacustomer.org,"South Africa",125.76,2,174
+389,ALAN,KAHN,ALAN.KAHN@sakilacustomer.org,China,124.74,14,175
+491,RICK,MATTOX,RICK.MATTOX@sakilacustomer.org,Egypt,124.73,2,176
+400,BRYAN,HARDISON,BRYAN.HARDISON@sakilacustomer.org,"United States",124.72,11,177
+388,CRAIG,MORRELL,CRAIG.MORRELL@sakilacustomer.org,Philippines,124.70,10,178
+230,JOY,GEORGE,JOY.GEORGE@sakilacustomer.org,Romania,124.67,1,179
+129,CARRIE,PORTER,CARRIE.PORTER@sakilacustomer.org,China,124.66,15,180
+166,LYNN,PAYNE,LYNN.PAYNE@sakilacustomer.org,Malawi,123.72,1,181
+268,NINA,SOTO,NINA.SOTO@sakilacustomer.org,India,123.71,17,182
+499,MARC,OUTLAW,MARC.OUTLAW@sakilacustomer.org,Italy,123.70,4,183
+30,MELISSA,KING,MELISSA.KING@sakilacustomer.org,Taiwan,123.66,5,184
+510,BEN,EASTER,BEN.EASTER@sakilacustomer.org,"Russian Federation",122.74,6,185
+331,ERIC,ROBERT,ERIC.ROBERT@sakilacustomer.org,Argentina,122.73,5,186
+276,BRANDY,GRAVES,BRANDY.GRAVES@sakilacustomer.org,"United States",122.72,12,187
+163,CATHY,SPENCER,CATHY.SPENCER@sakilacustomer.org,Japan,122.71,10,188
+263,HILDA,HOPKINS,HILDA.HOPKINS@sakilacustomer.org,Philippines,122.71,11,188
+260,CHRISTY,VARGAS,CHRISTY.VARGAS@sakilacustomer.org,China,122.69,16,190
+406,NATHAN,RUNYON,NATHAN.RUNYON@sakilacustomer.org,"Virgin Islands, U.S.",122.68,1,191
+241,HEIDI,LARSON,HEIDI.LARSON@sakilacustomer.org,China,122.66,17,192
+571,JOHNNIE,CHISHOLM,JOHNNIE.CHISHOLM@sakilacustomer.org,Poland,121.76,4,193
+149,VALERIE,BLACK,VALERIE.BLACK@sakilacustomer.org,"United States",121.74,13,194
+356,GERALD,FULTZ,GERALD.FULTZ@sakilacustomer.org,India,121.70,18,195
+416,JEFFERY,PINSON,JEFFERY.PINSON@sakilacustomer.org,Pakistan,121.69,1,196
+393,PHILIP,CAUSEY,PHILIP.CAUSEY@sakilacustomer.org,"Russian Federation",121.69,7,196
+311,PAUL,TROUT,PAUL.TROUT@sakilacustomer.org,"Russian Federation",120.77,8,198
+495,CHARLIE,BESS,CHARLIE.BESS@sakilacustomer.org,China,120.74,18,199
+423,ALFRED,CASILLAS,ALFRED.CASILLAS@sakilacustomer.org,Egypt,120.74,3,199
+225,ARLENE,HARVEY,ARLENE.HARVEY@sakilacustomer.org,India,120.74,19,199
+105,DAWN,SULLIVAN,DAWN.SULLIVAN@sakilacustomer.org,Tuvalu,120.74,1,199
+573,BYRON,BOX,BYRON.BOX@sakilacustomer.org,Kazakstan,120.71,1,203
+251,VICKIE,BREWER,VICKIE.BREWER@sakilacustomer.org,Germany,120.69,4,204
+170,BEATRICE,ARNOLD,BEATRICE.ARNOLD@sakilacustomer.org,India,119.74,20,205
+487,HECTOR,POINDEXTER,HECTOR.POINDEXTER@sakilacustomer.org,"Russian Federation",119.74,9,205
+421,LEE,HAWKS,LEE.HAWKS@sakilacustomer.org,India,119.73,21,207
+262,PATSY,DAVIDSON,PATSY.DAVIDSON@sakilacustomer.org,Ecuador,119.72,3,208
+173,AUDREY,RAY,AUDREY.RAY@sakilacustomer.org,Austria,119.71,1,209
+336,JOSHUA,MARK,JOSHUA.MARK@sakilacustomer.org,India,119.70,22,210
+23,SARAH,LEWIS,SARAH.LEWIS@sakilacustomer.org,Latvia,119.70,2,210
+340,PATRICK,NEWSOM,PATRICK.NEWSOM@sakilacustomer.org,Vietnam,119.69,4,212
+167,SALLY,PIERCE,SALLY.PIERCE@sakilacustomer.org,India,119.68,23,213
+41,STEPHANIE,MITCHELL,STEPHANIE.MITCHELL@sakilacustomer.org,Armenia,118.75,1,214
+531,JAMIE,WAUGH,JAMIE.WAUGH@sakilacustomer.org,Japan,118.75,11,214
+280,TRACEY,BARRETT,TRACEY.BARRETT@sakilacustomer.org,Nigeria,118.73,6,216
+292,MISTY,LAMBERT,MISTY.LAMBERT@sakilacustomer.org,"United Arab Emirates",118.73,1,216
+266,NORA,HERRERA,NORA.HERRERA@sakilacustomer.org,Austria,118.72,2,218
+332,STEPHEN,QUALLS,STEPHEN.QUALLS@sakilacustomer.org,Bangladesh,118.72,3,218
+16,SANDRA,MARTIN,SANDRA.MARTIN@sakilacustomer.org,"United Kingdom",118.72,2,218
+529,ERIK,GUILLEN,ERIK.GUILLEN@sakilacustomer.org,India,118.71,24,221
+442,LEROY,BUSTAMANTE,LEROY.BUSTAMANTE@sakilacustomer.org,China,118.68,19,222
+1,MARY,SMITH,MARY.SMITH@sakilacustomer.org,Japan,118.68,12,222
+583,MARSHALL,THORN,MARSHALL.THORN@sakilacustomer.org,"United Kingdom",117.77,3,224
+585,PERRY,SWAFFORD,PERRY.SWAFFORD@sakilacustomer.org,Argentina,117.76,6,225
+490,SAM,MCDUFFIE,SAM.MCDUFFIE@sakilacustomer.org,Colombia,117.76,3,225
+536,FERNANDO,CHURCHILL,FERNANDO.CHURCHILL@sakilacustomer.org,"South Korea",117.75,3,227
+240,MARLENE,WELCH,MARLENE.WELCH@sakilacustomer.org,Japan,117.74,13,228
+286,VELMA,LUCAS,VELMA.LUCAS@sakilacustomer.org,Nigeria,117.73,7,229
+577,CLIFTON,MALCOLM,CLIFTON.MALCOLM@sakilacustomer.org,Taiwan,117.73,6,229
+126,ELLEN,SIMPSON,ELLEN.SIMPSON@sakilacustomer.org,Brazil,117.72,11,231
+14,BETTY,WHITE,BETTY.WHITE@sakilacustomer.org,"United States",117.72,14,231
+538,TED,BREAUX,TED.BREAUX@sakilacustomer.org,China,117.71,20,233
+386,TODD,TAN,TODD.TAN@sakilacustomer.org,Ukraine,117.71,4,233
+595,TERRENCE,GUNDERSON,TERRENCE.GUNDERSON@sakilacustomer.org,China,117.70,21,235
+42,CAROLYN,PEREZ,CAROLYN.PEREZ@sakilacustomer.org,Thailand,117.70,3,235
+321,KEVIN,SCHULER,KEVIN.SCHULER@sakilacustomer.org,Nepal,116.78,1,237
+432,EDWIN,BURK,EDWIN.BURK@sakilacustomer.org,"South Africa",116.77,3,238
+408,MANUEL,MURRELL,MANUEL.MURRELL@sakilacustomer.org,"Sri Lanka",116.70,1,239
+446,THEODORE,CULP,THEODORE.CULP@sakilacustomer.org,India,116.69,25,240
+214,KRISTIN,JOHNSTON,KRISTIN.JOHNSTON@sakilacustomer.org,"United States",116.69,15,240
+254,MAXINE,SILVA,MAXINE.SILVA@sakilacustomer.org,Brazil,116.68,12,242
+304,DAVID,ROYAL,DAVID.ROYAL@sakilacustomer.org,Peru,115.74,3,243
+512,CECIL,VINES,CECIL.VINES@sakilacustomer.org,"United Kingdom",115.74,4,243
+58,JEAN,BELL,JEAN.BELL@sakilacustomer.org,Malaysia,115.73,2,245
+500,REGINALD,KINDER,REGINALD.KINDER@sakilacustomer.org,Indonesia,115.72,5,246
+485,CLYDE,TOBIAS,CLYDE.TOBIAS@sakilacustomer.org,China,115.71,22,247
+588,MARION,OCAMPO,MARION.OCAMPO@sakilacustomer.org,China,115.71,22,247
+287,BECKY,MILES,BECKY.MILES@sakilacustomer.org,India,115.71,26,247
+25,DEBORAH,WALKER,DEBORAH.WALKER@sakilacustomer.org,Pakistan,115.71,2,247
+481,HERMAN,DEVORE,HERMAN.DEVORE@sakilacustomer.org,Tanzania,115.71,1,247
+444,MARCUS,HIDALGO,MARCUS.HIDALGO@sakilacustomer.org,Estonia,115.70,1,252
+53,HEATHER,MORRIS,HEATHER.MORRIS@sakilacustomer.org,Japan,115.70,14,252
+20,SHARON,ROBINSON,SHARON.ROBINSON@sakilacustomer.org,Pakistan,115.70,3,252
+503,ANGEL,BARCLAY,ANGEL.BARCLAY@sakilacustomer.org,Japan,115.68,15,255
+427,JESUS,MCCARTNEY,JESUS.MCCARTNEY@sakilacustomer.org,Brazil,114.76,13,256
+343,DOUGLAS,GRAF,DOUGLAS.GRAF@sakilacustomer.org,Mexico,114.75,10,257
+171,DOLORES,WAGNER,DOLORES.WAGNER@sakilacustomer.org,Malaysia,114.74,3,258
+44,MARIE,TURNER,MARIE.TURNER@sakilacustomer.org,"Russian Federation",114.74,10,258
+220,CHARLENE,ALVAREZ,CHARLENE.ALVAREZ@sakilacustomer.org,Tanzania,114.73,2,260
+317,EDWARD,BAUGH,EDWARD.BAUGH@sakilacustomer.org,"Faroe Islands",114.72,1,261
+57,EVELYN,MORGAN,EVELYN.MORGAN@sakilacustomer.org,Liechtenstein,114.72,1,261
+338,DENNIS,GILMAN,DENNIS.GILMAN@sakilacustomer.org,"South Africa",114.72,4,261
+457,BILL,GAVIN,BILL.GAVIN@sakilacustomer.org,"United States",114.72,16,261
+186,HOLLY,FOX,HOLLY.FOX@sakilacustomer.org,India,114.69,27,265
+323,MATTHEW,MAHAN,MATTHEW.MAHAN@sakilacustomer.org,Mexico,114.69,11,265
+22,LAURA,RODRIGUEZ,LAURA.RODRIGUEZ@sakilacustomer.org,Morocco,113.78,1,267
+582,ANDY,VANHORN,ANDY.VANHORN@sakilacustomer.org,Mexico,113.75,12,268
+486,GLEN,TALBERT,GLEN.TALBERT@sakilacustomer.org,Mexico,113.74,13,269
+294,SHELLY,WATTS,SHELLY.WATTS@sakilacustomer.org,"United States",113.74,17,269
+593,RENE,MCALISTER,RENE.MCALISTER@sakilacustomer.org,"United States",113.74,17,269
+139,AMBER,DIXON,AMBER.DIXON@sakilacustomer.org,Taiwan,113.73,7,272
+447,CLIFFORD,BOWENS,CLIFFORD.BOWENS@sakilacustomer.org,"Russian Federation",113.71,11,273
+113,CINDY,FISHER,CINDY.FISHER@sakilacustomer.org,Venezuela,113.71,1,273
+157,DARLENE,ROSE,DARLENE.ROSE@sakilacustomer.org,"North Korea",113.69,1,275
+91,LOIS,BUTLER,LOIS.BUTLER@sakilacustomer.org,Brunei,113.65,1,276
+493,BRENT,HARKINS,BRENT.HARKINS@sakilacustomer.org,Turkey,112.77,6,277
+540,TYRONE,ASHER,TYRONE.ASHER@sakilacustomer.org,Bulgaria,112.76,1,278
+590,SETH,HANNON,SETH.HANNON@sakilacustomer.org,Bahrain,112.75,1,279
+63,ASHLEY,RICHARDSON,ASHLEY.RICHARDSON@sakilacustomer.org,"United States",112.75,19,279
+327,LARRY,THRASHER,LARRY.THRASHER@sakilacustomer.org,Turkey,112.74,7,281
+407,DALE,RATCLIFF,DALE.RATCLIFF@sakilacustomer.org,"South Africa",112.73,5,282
+441,MARIO,CHEATHAM,MARIO.CHEATHAM@sakilacustomer.org,Algeria,112.72,2,283
+161,GERALDINE,PERKINS,GERALDINE.PERKINS@sakilacustomer.org,Israel,112.70,2,284
+256,MABEL,HOLLAND,MABEL.HOLLAND@sakilacustomer.org,Myanmar,112.70,1,284
+453,CALVIN,MARTEL,CALVIN.MARTEL@sakilacustomer.org,Venezuela,111.77,2,286
+528,CLAUDE,HERZOG,CLAUDE.HERZOG@sakilacustomer.org,Angola,111.75,1,287
+234,CLAUDIA,FULLER,CLAUDIA.FULLER@sakilacustomer.org,Kuwait,111.74,1,288
+518,GABRIEL,HARDER,GABRIEL.HARDER@sakilacustomer.org,Turkey,111.74,8,288
+116,VICTORIA,GIBSON,VICTORIA.GIBSON@sakilacustomer.org,Indonesia,111.73,6,290
+579,DARYL,LARUE,DARYL.LARUE@sakilacustomer.org,Iraq,111.73,1,290
+396,EARL,SHANKS,EARL.SHANKS@sakilacustomer.org,Japan,111.73,16,290
+213,GINA,WILLIAMSON,GINA.WILLIAMSON@sakilacustomer.org,Yemen,111.72,3,293
+592,TERRANCE,ROUSH,TERRANCE.ROUSH@sakilacustomer.org,Hungary,111.71,1,294
+28,CYNTHIA,YOUNG,CYNTHIA.YOUNG@sakilacustomer.org,India,111.68,28,295
+375,AARON,SELBY,AARON.SELBY@sakilacustomer.org,"Congo, The Democratic Republic of the",110.76,1,296
+258,MYRTLE,FLEMING,MYRTLE.FLEMING@sakilacustomer.org,"Dominican Republic",110.76,1,296
+417,TRAVIS,ESTEP,TRAVIS.ESTEP@sakilacustomer.org,"Saudi Arabia",110.75,2,298
+231,GEORGIA,JACOBS,GEORGIA.JACOBS@sakilacustomer.org,India,110.74,29,299
+40,AMANDA,CARTER,AMANDA.CARTER@sakilacustomer.org,Morocco,110.73,2,300
+190,YOLANDA,WEAVER,YOLANDA.WEAVER@sakilacustomer.org,Tanzania,110.73,3,300
+90,RUBY,WASHINGTON,RUBY.WASHINGTON@sakilacustomer.org,China,110.72,24,302
+559,EVERETT,BANDA,EVERETT.BANDA@sakilacustomer.org,Egypt,110.72,4,302
+376,RANDY,GAITHER,RANDY.GAITHER@sakilacustomer.org,"Russian Federation",110.72,12,302
+563,KEN,PREWITT,KEN.PREWITT@sakilacustomer.org,Romania,110.71,2,305
+424,KYLE,SPURLOCK,KYLE.SPURLOCK@sakilacustomer.org,China,110.70,25,306
+135,JUANITA,MASON,JUANITA.MASON@sakilacustomer.org,India,110.70,30,306
+138,HAZEL,WARREN,HAZEL.WARREN@sakilacustomer.org,China,110.66,26,308
+477,DAN,PAINE,DAN.PAINE@sakilacustomer.org,"United Kingdom",109.78,5,309
+460,LEON,BOSTIC,LEON.BOSTIC@sakilacustomer.org,Colombia,109.75,4,310
+193,KATIE,ELLIOTT,KATIE.ELLIOTT@sakilacustomer.org,Kenya,109.75,2,310
+562,WALLACE,SLONE,WALLACE.SLONE@sakilacustomer.org,Nigeria,109.75,8,310
+155,GAIL,KNIGHT,GAIL.KNIGHT@sakilacustomer.org,Switzerland,109.75,1,310
+305,RICHARD,MCCRARY,RICHARD.MCCRARY@sakilacustomer.org,"United States",109.75,20,310
+121,JOSEPHINE,GOMEZ,JOSEPHINE.GOMEZ@sakilacustomer.org,India,109.74,31,315
+333,ANDREW,PURDY,ANDREW.PURDY@sakilacustomer.org,Azerbaijan,109.73,2,316
+471,DEAN,SAUER,DEAN.SAUER@sakilacustomer.org,"South Africa",109.73,6,316
+574,JULIAN,VEST,JULIAN.VEST@sakilacustomer.org,Japan,109.72,17,318
+290,KRISTINA,CHAMBERS,KRISTINA.CHAMBERS@sakilacustomer.org,Venezuela,109.72,3,318
+405,LEONARD,SCHOFIELD,LEONARD.SCHOFIELD@sakilacustomer.org,Argentina,109.68,7,320
+47,FRANCES,PARKER,FRANCES.PARKER@sakilacustomer.org,Brazil,108.78,14,321
+541,DARREN,WINDHAM,DARREN.WINDHAM@sakilacustomer.org,Italy,108.76,5,322
+201,VICKI,FIELDS,VICKI.FIELDS@sakilacustomer.org,Germany,108.75,5,323
+572,SIDNEY,BURLESON,SIDNEY.BURLESON@sakilacustomer.org,Poland,108.75,5,323
+587,SERGIO,STANFIELD,SERGIO.STANFIELD@sakilacustomer.org,Mexico,108.74,14,325
+145,LUCILLE,HOLMES,LUCILLE.HOLMES@sakilacustomer.org,"South Africa",108.72,7,326
+275,CAROLE,BARNETT,CAROLE.BARNETT@sakilacustomer.org,"United States",108.70,21,327
+246,MARIAN,MENDOZA,MARIAN.MENDOZA@sakilacustomer.org,Brazil,107.77,15,328
+249,DORA,MEDINA,DORA.MEDINA@sakilacustomer.org,China,107.77,27,328
+127,ELAINE,STEVENS,ELAINE.STEVENS@sakilacustomer.org,"Russian Federation",107.76,13,330
+553,MAX,PITT,MAX.PITT@sakilacustomer.org,Yugoslavia,107.76,2,330
+261,DEANNA,BYRD,DEANNA.BYRD@sakilacustomer.org,Philippines,107.74,12,332
+109,EDNA,WEST,EDNA.WEST@sakilacustomer.org,"South Africa",107.74,8,332
+581,VIRGIL,WOFFORD,VIRGIL.WOFFORD@sakilacustomer.org,Mexico,107.73,15,334
+52,JULIE,SANCHEZ,JULIE.SANCHEZ@sakilacustomer.org,Spain,107.71,3,335
+418,JEFF,EAST,JEFF.EAST@sakilacustomer.org,"Dominican Republic",107.70,2,336
+452,TOM,MILNER,TOM.MILNER@sakilacustomer.org,"United Arab Emirates",107.68,2,337
+379,CARLOS,COUGHLIN,CARLOS.COUGHLIN@sakilacustomer.org,India,106.77,32,338
+341,PETER,MENARD,PETER.MENARD@sakilacustomer.org,Netherlands,106.77,2,338
+345,CARL,ARTIS,CARL.ARTIS@sakilacustomer.org,Paraguay,106.77,1,338
+11,LISA,ANDERSON,LISA.ANDERSON@sakilacustomer.org,Japan,106.76,18,341
+98,LILLIAN,GRIFFIN,LILLIAN.GRIFFIN@sakilacustomer.org,"United Arab Emirates",106.75,3,342
+160,ERIN,DUNN,ERIN.DUNN@sakilacustomer.org,"Russian Federation",106.73,14,343
+381,BOBBY,BOUDREAU,BOBBY.BOUDREAU@sakilacustomer.org,Anguilla,106.65,1,344
+429,FREDERICK,ISBELL,FREDERICK.ISBELL@sakilacustomer.org,Japan,105.79,19,345
+414,VINCENT,RALSTON,VINCENT.RALSTON@sakilacustomer.org,Mexico,105.75,16,346
+150,DANIELLE,DANIELS,DANIELLE.DANIELS@sakilacustomer.org,Mexico,105.75,16,346
+517,BRAD,MCCURDY,BRAD.MCCURDY@sakilacustomer.org,Taiwan,105.75,8,346
+308,THOMAS,GRIGSBY,THOMAS.GRIGSBY@sakilacustomer.org,"United States",105.75,22,346
+96,DIANA,ALEXANDER,DIANA.ALEXANDER@sakilacustomer.org,"United States",105.73,23,350
+397,JIMMY,SCHRADER,JIMMY.SCHRADER@sakilacustomer.org,"Russian Federation",105.71,15,351
+247,STELLA,MORENO,STELLA.MORENO@sakilacustomer.org,Mexico,104.78,18,352
+466,LEO,EBERT,LEO.EBERT@sakilacustomer.org,China,104.77,28,353
+409,RODNEY,MOELLER,RODNEY.MOELLER@sakilacustomer.org,Nigeria,104.77,9,353
+270,LEAH,CURTIS,LEAH.CURTIS@sakilacustomer.org,Poland,104.75,6,355
+31,BRENDA,WRIGHT,BRENDA.WRIGHT@sakilacustomer.org,India,104.74,33,356
+425,FRANCIS,SIKES,FRANCIS.SIKES@sakilacustomer.org,Mexico,104.74,19,356
+312,MARK,RINEHART,MARK.RINEHART@sakilacustomer.org,"Saudi Arabia",104.74,3,356
+391,CLARENCE,GAMEZ,CLARENCE.GAMEZ@sakilacustomer.org,Japan,104.70,20,359
+65,ROSE,HOWARD,ROSE.HOWARD@sakilacustomer.org,"French Guiana",103.78,1,360
+365,BRUCE,SCHWARZ,BRUCE.SCHWARZ@sakilacustomer.org,Japan,103.77,21,361
+519,RON,DELUCA,RON.DELUCA@sakilacustomer.org,Japan,103.77,21,361
+475,PEDRO,CHESTNUT,PEDRO.CHESTNUT@sakilacustomer.org,Ukraine,103.76,5,363
+546,KELLY,KNOTT,KELLY.KNOTT@sakilacustomer.org,China,103.75,29,364
+324,GARY,COY,GARY.COY@sakilacustomer.org,China,103.75,29,364
+537,CLINTON,BUFORD,CLINTON.BUFORD@sakilacustomer.org,"United States",103.75,24,364
+199,BETH,FRANKLIN,BETH.FRANKLIN@sakilacustomer.org,Vietnam,103.75,5,364
+202,CARLA,GUTIERREZ,CARLA.GUTIERREZ@sakilacustomer.org,India,103.74,34,368
+383,MARTIN,BALES,MARTIN.BALES@sakilacustomer.org,Angola,103.73,2,369
+74,DENISE,KELLY,DENISE.KELLY@sakilacustomer.org,Brazil,103.73,16,369
+282,JENNY,CASTRO,JENNY.CASTRO@sakilacustomer.org,"Puerto Rico",103.73,2,369
+374,JEREMY,HURTADO,JEREMY.HURTADO@sakilacustomer.org,Brazil,103.72,17,372
+12,NANCY,THOMAS,NANCY.THOMAS@sakilacustomer.org,India,103.72,35,372
+100,ROBIN,HAYES,ROBIN.HAYES@sakilacustomer.org,"Russian Federation",102.76,16,374
+445,MICHEAL,FORMAN,MICHEAL.FORMAN@sakilacustomer.org,Argentina,102.74,8,375
+367,ADAM,GOOCH,ADAM.GOOCH@sakilacustomer.org,India,101.78,36,376
+554,DWAYNE,OLVERA,DWAYNE.OLVERA@sakilacustomer.org,India,101.78,36,376
+480,COREY,HAUSER,COREY.HAUSER@sakilacustomer.org,Turkey,101.78,9,376
+359,WILLIE,MARKHAM,WILLIE.MARKHAM@sakilacustomer.org,Argentina,101.75,9,379
+156,BERTHA,FERGUSON,BERTHA.FERGUSON@sakilacustomer.org,Nigeria,101.75,10,379
+83,LOUISE,JENKINS,LOUISE.JENKINS@sakilacustomer.org,"South Africa",101.75,9,379
+219,WILLIE,HOWELL,WILLIE.HOWELL@sakilacustomer.org,Argentina,101.74,10,382
+387,JESSE,SCHILLING,JESSE.SCHILLING@sakilacustomer.org,"Congo, The Democratic Republic of the",101.74,2,382
+298,ERIKA,PENA,ERIKA.PENA@sakilacustomer.org,Finland,101.74,1,382
+385,PHILLIP,HOLM,PHILLIP.HOLM@sakilacustomer.org,Japan,101.74,23,382
+509,RAUL,FORTIER,RAUL.FORTIER@sakilacustomer.org,India,100.80,38,386
+55,DORIS,REED,DORIS.REED@sakilacustomer.org,"Russian Federation",100.78,17,387
+106,CONNIE,WALLACE,CONNIE.WALLACE@sakilacustomer.org,"Russian Federation",100.77,18,388
+123,SHANNON,FREEMAN,SHANNON.FREEMAN@sakilacustomer.org,India,100.76,39,389
+456,RONNIE,RICKETTS,RONNIE.RICKETTS@sakilacustomer.org,Senegal,100.75,1,390
+474,DUSTIN,GILLETTE,DUSTIN.GILLETTE@sakilacustomer.org,Netherlands,100.74,3,391
+303,WILLIAM,SATTERFIELD,WILLIAM.SATTERFIELD@sakilacustomer.org,Yemen,100.74,4,391
+77,JANE,BENNETT,JANE.BENNETT@sakilacustomer.org,Brazil,100.72,18,393
+361,LAWRENCE,LAWTON,LAWRENCE.LAWTON@sakilacustomer.org,Cameroon,100.69,1,394
+64,JUDITH,COX,JUDITH.COX@sakilacustomer.org,China,100.67,31,395
+449,OSCAR,AQUINO,OSCAR.AQUINO@sakilacustomer.org,Iran,99.80,4,396
+489,RICARDO,MEADOR,RICARDO.MEADOR@sakilacustomer.org,Japan,99.79,24,397
+67,KELLY,TORRES,KELLY.TORRES@sakilacustomer.org,China,99.78,32,398
+352,ALBERT,CROUSE,ALBERT.CROUSE@sakilacustomer.org,Cameroon,99.77,2,399
+437,RANDALL,NEUMANN,RANDALL.NEUMANN@sakilacustomer.org,"Dominican Republic",99.77,3,399
+192,LAURIE,LAWRENCE,LAURIE.LAWRENCE@sakilacustomer.org,India,99.77,40,399
+547,KURT,EMMONS,KURT.EMMONS@sakilacustomer.org,Japan,99.77,25,399
+511,CHESTER,BENNER,CHESTER.BENNER@sakilacustomer.org,China,99.76,33,403
+43,CHRISTINE,ROBERTS,CHRISTINE.ROBERTS@sakilacustomer.org,"French Polynesia",99.76,2,403
+10,DOROTHY,TAYLOR,DOROTHY.TAYLOR@sakilacustomer.org,Iran,99.75,5,405
+597,FREDDIE,DUGGAN,FREDDIE.DUGGAN@sakilacustomer.org,Peru,99.75,4,405
+570,IVAN,CROMWELL,IVAN.CROMWELL@sakilacustomer.org,Mexico,99.74,20,407
+580,ROSS,GREY,ROSS.GREY@sakilacustomer.org,Philippines,99.73,13,408
+72,THERESA,WATSON,THERESA.WATSON@sakilacustomer.org,Philippines,99.70,14,409
+272,KAY,CALDWELL,KAY.CALDWELL@sakilacustomer.org,China,98.80,34,410
+17,DONNA,THOMPSON,DONNA.THOMPSON@sakilacustomer.org,"Russian Federation",98.79,19,411
+443,FRANCISCO,SKIDMORE,FRANCISCO.SKIDMORE@sakilacustomer.org,Brazil,98.78,19,412
+544,CODY,NOLEN,CODY.NOLEN@sakilacustomer.org,Brazil,98.78,19,412
+180,STACY,CUNNINGHAM,STACY.CUNNINGHAM@sakilacustomer.org,Colombia,98.77,5,414
+217,AGNES,BISHOP,AGNES.BISHOP@sakilacustomer.org,India,98.77,41,414
+175,ANNETTE,OLSON,ANNETTE.OLSON@sakilacustomer.org,India,98.76,42,416
+60,MILDRED,BAILEY,MILDRED.BAILEY@sakilacustomer.org,India,98.75,43,417
+264,GWENDOLYN,MAY,GWENDOLYN.MAY@sakilacustomer.org,Japan,98.75,26,417
+516,ELMER,NOE,ELMER.NOE@sakilacustomer.org,Cambodia,98.74,1,419
+133,PAULINE,HENRY,PAULINE.HENRY@sakilacustomer.org,Mexico,98.73,21,420
+310,DANIEL,CABRAL,DANIEL.CABRAL@sakilacustomer.org,Brazil,97.80,21,421
+505,RAFAEL,ABNEY,RAFAEL.ABNEY@sakilacustomer.org,Philippines,97.79,15,422
+73,BEVERLY,BROOKS,BEVERLY.BROOKS@sakilacustomer.org,Taiwan,97.76,9,423
+422,MELVIN,ELLINGTON,MELVIN.ELLINGTON@sakilacustomer.org,China,97.74,35,424
+182,RENEE,LANE,RENEE.LANE@sakilacustomer.org,"United States",97.74,25,424
+111,CARMEN,OWENS,CARMEN.OWENS@sakilacustomer.org,Venezuela,97.74,4,424
+498,GENE,SANBORN,GENE.SANBORN@sakilacustomer.org,Oman,97.73,1,427
+461,DEREK,BLAKELY,DEREK.BLAKELY@sakilacustomer.org,Philippines,97.72,16,428
+578,WILLARD,LUMPKIN,WILLARD.LUMPKIN@sakilacustomer.org,Mexico,96.78,22,429
+101,PEGGY,MYERS,PEGGY.MYERS@sakilacustomer.org,"Saudi Arabia",96.76,4,430
+69,JUDY,GRAY,JUDY.GRAY@sakilacustomer.org,Algeria,96.75,3,431
+326,JOSE,ANDREW,JOSE.ANDREW@sakilacustomer.org,"Saint Vincent and the Grenadines",96.75,1,431
+551,CLAYTON,BARBEE,CLAYTON.BARBEE@sakilacustomer.org,Brazil,96.74,22,433
+561,IAN,STILL,IAN.STILL@sakilacustomer.org,"United States",96.73,26,434
+596,ENRIQUE,FORSYTHE,ENRIQUE.FORSYTHE@sakilacustomer.org,Greece,96.72,2,435
+476,DERRICK,BOURQUE,DERRICK.BOURQUE@sakilacustomer.org,Canada,95.78,3,436
+169,ERICA,MATTHEWS,ERICA.MATTHEWS@sakilacustomer.org,China,95.78,36,436
+488,SHANE,MILLARD,SHANE.MILLARD@sakilacustomer.org,Mexico,95.78,23,436
+431,JOEL,FRANCISCO,JOEL.FRANCISCO@sakilacustomer.org,Bolivia,95.77,1,439
+216,NATALIE,MEYER,NATALIE.MEYER@sakilacustomer.org,Brazil,95.77,23,439
+37,PAMELA,BAKER,PAMELA.BAKER@sakilacustomer.org,China,95.77,37,439
+364,BENJAMIN,VARNEY,BENJAMIN.VARNEY@sakilacustomer.org,Mexico,95.77,24,439
+291,TONI,HOLT,TONI.HOLT@sakilacustomer.org,"United States",95.77,27,439
+24,KIMBERLY,LEE,KIMBERLY.LEE@sakilacustomer.org,Argentina,95.75,11,444
+232,CONSTANCE,REID,CONSTANCE.REID@sakilacustomer.org,Nigeria,95.75,11,444
+507,EDGAR,RHOADS,EDGAR.RHOADS@sakilacustomer.org,Turkey,95.75,10,444
+132,ESTHER,CRAWFORD,ESTHER.CRAWFORD@sakilacustomer.org,"South Africa",95.72,10,447
+542,LONNIE,TIRADO,LONNIE.TIRADO@sakilacustomer.org,Indonesia,94.82,7,448
+238,NELLIE,GARRETT,NELLIE.GARRETT@sakilacustomer.org,India,94.79,44,449
+68,NICOLE,PETERSON,NICOLE.PETERSON@sakilacustomer.org,India,94.78,45,450
+134,EMMA,BOYD,EMMA.BOYD@sakilacustomer.org,Egypt,94.77,5,451
+153,SUZANNE,NICHOLS,SUZANNE.NICHOLS@sakilacustomer.org,Indonesia,94.76,8,452
+330,SCOTT,SHELLEY,SCOTT.SHELLEY@sakilacustomer.org,"United States",94.75,28,453
+142,APRIL,BURNS,APRIL.BURNS@sakilacustomer.org,"United Kingdom",94.74,6,454
+189,LORETTA,CARPENTER,LORETTA.CARPENTER@sakilacustomer.org,Canada,93.78,4,455
+81,ANDREA,HENDERSON,ANDREA.HENDERSON@sakilacustomer.org,Madagascar,93.78,1,455
+523,HARVEY,GUAJARDO,HARVEY.GUAJARDO@sakilacustomer.org,Vietnam,93.78,6,455
+415,GLENN,PULLEN,GLENN.PULLEN@sakilacustomer.org,Netherlands,93.77,4,458
+130,CHARLOTTE,HUNTER,CHARLOTTE.HUNTER@sakilacustomer.org,Brazil,93.76,24,459
+229,TAMARA,NGUYEN,TAMARA.NGUYEN@sakilacustomer.org,Brazil,93.75,25,460
+235,JACKIE,LYNCH,JACKIE.LYNCH@sakilacustomer.org,Colombia,93.75,6,460
+377,HOWARD,FORTNER,HOWARD.FORTNER@sakilacustomer.org,Iran,93.74,6,462
+6,JENNIFER,DAVIS,JENNIFER.DAVIS@sakilacustomer.org,"United States",93.72,29,463
+301,ROBERT,BAUGHMAN,ROBERT.BAUGHMAN@sakilacustomer.org,"Russian Federation",92.79,20,464
+174,YVONNE,WATKINS,YVONNE.WATKINS@sakilacustomer.org,Venezuela,92.79,5,464
+104,RITA,GRAHAM,RITA.GRAHAM@sakilacustomer.org,France,92.76,2,466
+8,SUSAN,WILSON,SUSAN.WILSON@sakilacustomer.org,"New Zealand",92.76,1,466
+188,MELANIE,ARMSTRONG,MELANIE.ARMSTRONG@sakilacustomer.org,Philippines,92.75,17,468
+228,ALLISON,STANLEY,ALLISON.STANLEY@sakilacustomer.org,Cambodia,92.73,2,469
+151,MEGAN,PALMER,MEGAN.PALMER@sakilacustomer.org,China,92.73,38,469
+36,KATHLEEN,ADAMS,KATHLEEN.ADAMS@sakilacustomer.org,Iran,92.73,7,469
+212,WILMA,RICHARDS,WILMA.RICHARDS@sakilacustomer.org,"United States",91.80,30,472
+33,ANNA,HILL,ANNA.HILL@sakilacustomer.org,Italy,91.79,6,473
+399,DANNY,ISOM,DANNY.ISOM@sakilacustomer.org,Pakistan,91.79,4,473
+222,DELORES,HANSEN,DELORES.HANSEN@sakilacustomer.org,"Russian Federation",91.79,21,473
+325,TIMOTHY,BUNN,TIMOTHY.BUNN@sakilacustomer.org,Brazil,91.78,26,476
+18,CAROL,GARCIA,CAROL.GARCIA@sakilacustomer.org,Nigeria,91.78,12,476
+93,PHYLLIS,FOSTER,PHYLLIS.FOSTER@sakilacustomer.org,China,91.77,39,478
+392,SEAN,DOUGLASS,SEAN.DOUGLASS@sakilacustomer.org,Ethiopia,91.77,1,478
+564,BOB,PFEIFFER,BOB.PFEIFFER@sakilacustomer.org,China,91.76,40,480
+99,EMILY,DIAZ,EMILY.DIAZ@sakilacustomer.org,"South Korea",91.76,4,480
+382,VICTOR,BARKLEY,VICTOR.BARKLEY@sakilacustomer.org,"United States",91.76,31,480
+463,DARRELL,POWER,DARRELL.POWER@sakilacustomer.org,Canada,91.75,5,483
+435,RICKY,SHELBY,RICKY.SHELBY@sakilacustomer.org,China,91.75,41,483
+215,JESSIE,BANKS,JESSIE.BANKS@sakilacustomer.org,Bulgaria,91.74,2,485
+208,LUCY,WHEELER,LUCY.WHEELER@sakilacustomer.org,India,91.74,46,485
+115,WENDY,HARRISON,WENDY.HARRISON@sakilacustomer.org,Mexico,91.70,25,487
+552,HUGH,WALDROP,HUGH.WALDROP@sakilacustomer.org,China,90.79,42,488
+539,MATHEW,BOLIN,MATHEW.BOLIN@sakilacustomer.org,Venezuela,90.78,6,489
+328,JEFFREY,SPEAR,JEFFREY.SPEAR@sakilacustomer.org,Indonesia,90.77,9,490
+184,VIVIAN,RUIZ,VIVIAN.RUIZ@sakilacustomer.org,Netherlands,90.77,5,490
+501,RUBEN,GEARY,RUBEN.GEARY@sakilacustomer.org,Poland,89.79,7,492
+545,JULIO,NOLAND,JULIO.NOLAND@sakilacustomer.org,Ukraine,89.79,6,492
+143,LESLIE,GORDON,LESLIE.GORDON@sakilacustomer.org,Turkey,89.78,11,494
+313,DONALD,MAHON,DONALD.MAHON@sakilacustomer.org,China,89.77,43,495
+233,LILLIE,KIM,LILLIE.KIM@sakilacustomer.org,Egypt,89.77,6,495
+9,MARGARET,MOORE,MARGARET.MOORE@sakilacustomer.org,Oman,89.77,2,495
+34,REBECCA,SCOTT,REBECCA.SCOTT@sakilacustomer.org,Japan,89.76,27,498
+351,JACK,FOUST,JACK.FOUST@sakilacustomer.org,"Russian Federation",89.76,22,498
+384,ERNEST,STEPP,ERNEST.STEPP@sakilacustomer.org,China,89.75,44,500
+419,CHAD,CARBONE,CHAD.CARBONE@sakilacustomer.org,India,89.75,47,500
+450,JAY,ROBB,JAY.ROBB@sakilacustomer.org,Indonesia,89.74,10,502
+357,KEITH,RICO,KEITH.RICO@sakilacustomer.org,Slovakia,89.74,1,502
+483,VERNON,CHAPA,VERNON.CHAPA@sakilacustomer.org,Turkey,88.82,12,504
+203,TARA,RYAN,TARA.RYAN@sakilacustomer.org,Indonesia,88.80,11,505
+496,TYLER,WREN,TYLER.WREN@sakilacustomer.org,China,88.79,45,506
+440,BERNARD,COLBY,BERNARD.COLBY@sakilacustomer.org,India,88.78,48,507
+534,CHRISTIAN,JUNG,CHRISTIAN.JUNG@sakilacustomer.org,India,88.76,49,508
+369,FRED,WHEAT,FRED.WHEAT@sakilacustomer.org,Mexico,88.75,26,509
+278,BILLIE,HORTON,BILLIE.HORTON@sakilacustomer.org,Turkey,88.74,13,510
+194,KRISTEN,CHAVEZ,KRISTEN.CHAVEZ@sakilacustomer.org,Japan,87.82,28,511
+524,JARED,ELY,JARED.ELY@sakilacustomer.org,Indonesia,87.81,12,512
+226,MAUREEN,LITTLE,MAUREEN.LITTLE@sakilacustomer.org,Paraguay,87.79,2,513
+88,BONNIE,HUGHES,BONNIE.HUGHES@sakilacustomer.org,"South Korea",87.79,5,513
+85,ANNE,POWELL,ANNE.POWELL@sakilacustomer.org,"United Kingdom",87.77,7,515
+455,JON,WILES,JON.WILES@sakilacustomer.org,Bolivia,87.76,2,516
+227,COLLEEN,BURTON,COLLEEN.BURTON@sakilacustomer.org,Germany,87.76,6,516
+195,VANESSA,SIMS,VANESSA.SIMS@sakilacustomer.org,Germany,86.81,7,518
+478,LEWIS,LYMAN,LEWIS.LYMAN@sakilacustomer.org,Israel,86.81,3,518
+165,LORRAINE,STEPHENS,LORRAINE.STEPHENS@sakilacustomer.org,China,86.79,46,520
+283,FELICIA,SUTTON,FELICIA.SUTTON@sakilacustomer.org,China,86.72,47,521
+567,ALFREDO,MCADAMS,ALFREDO.MCADAMS@sakilacustomer.org,"Russian Federation",85.80,23,522
+412,ALLEN,BUTTERFIELD,ALLEN.BUTTERFIELD@sakilacustomer.org,India,85.79,50,523
+315,KENNETH,GOODEN,KENNETH.GOODEN@sakilacustomer.org,Israel,84.83,4,524
+79,RACHEL,BARNES,RACHEL.BARNES@sakilacustomer.org,Japan,84.78,29,525
+394,CHRIS,BROTHERS,CHRIS.BROTHERS@sakilacustomer.org,Spain,84.78,4,525
+185,ROBERTA,HARPER,ROBERTA.HARPER@sakilacustomer.org,Iran,84.77,8,527
+62,JOAN,COOPER,JOAN.COOPER@sakilacustomer.org,"United States",84.77,32,527
+140,EVA,RAMOS,EVA.RAMOS@sakilacustomer.org,"United States",83.82,33,529
+599,AUSTIN,CINTRON,AUSTIN.CINTRON@sakilacustomer.org,China,83.81,48,530
+152,ALICIA,MILLS,ALICIA.MILLS@sakilacustomer.org,India,83.79,51,531
+556,ARMANDO,GRUBER,ARMANDO.GRUBER@sakilacustomer.org,"United Kingdom",83.79,8,531
+598,WADE,DELVALLE,WADE.DELVALLE@sakilacustomer.org,Switzerland,83.78,2,533
+118,KIM,CRUZ,KIM.CRUZ@sakilacustomer.org,"United States",82.79,34,534
+543,LANCE,PEMBERTON,LANCE.PEMBERTON@sakilacustomer.org,Morocco,82.78,3,535
+243,LYDIA,BURKE,LYDIA.BURKE@sakilacustomer.org,Argentina,82.76,12,536
+4,BARBARA,JONES,BARBARA.JONES@sakilacustomer.org,Myanmar,81.78,2,537
+527,CORY,MEEHAN,CORY.MEEHAN@sakilacustomer.org,Belarus,81.76,2,538
+223,MELINDA,FERNANDEZ,MELINDA.FERNANDEZ@sakilacustomer.org,Pakistan,80.83,5,539
+205,EILEEN,CARR,EILEEN.CARR@sakilacustomer.org,Paraguay,80.82,3,540
+70,CHRISTINA,RAMIREZ,CHRISTINA.RAMIREZ@sakilacustomer.org,"Saudi Arabia",80.82,5,540
+358,SAMUEL,MARLOW,SAMUEL.MARLOW@sakilacustomer.org,India,80.79,52,542
+521,ROLAND,SOUTH,ROLAND.SOUTH@sakilacustomer.org,China,80.77,49,543
+288,BOBBIE,CRAIG,BOBBIE.CRAIG@sakilacustomer.org,Mexico,80.76,27,544
+411,NORMAN,CURRIER,NORMAN.CURRIER@sakilacustomer.org,Indonesia,80.74,13,545
+548,ALLAN,CORNISH,ALLAN.CORNISH@sakilacustomer.org,Philippines,79.81,18,546
+402,LUIS,YANEZ,LUIS.YANEZ@sakilacustomer.org,France,79.80,3,547
+94,NORMA,GONZALES,NORMA.GONZALES@sakilacustomer.org,Philippines,79.79,19,548
+420,JACOB,LANCE,JACOB.LANCE@sakilacustomer.org,"United States",79.79,35,548
+430,RAY,HOULE,RAY.HOULE@sakilacustomer.org,"Russian Federation",79.78,24,550
+398,ANTONIO,MEEK,ANTONIO.MEEK@sakilacustomer.org,Brazil,78.84,27,551
+428,HERBERT,KRUGER,HERBERT.KRUGER@sakilacustomer.org,"Russian Federation",78.80,25,552
+335,GREGORY,MAULDIN,GREGORY.MAULDIN@sakilacustomer.org,Tunisia,78.77,1,553
+95,PAULA,BRYANT,PAULA.BRYANT@sakilacustomer.org,India,77.82,53,554
+549,NELSON,CHRISTENSON,NELSON.CHRISTENSON@sakilacustomer.org,Spain,77.80,5,555
+76,IRENE,PRICE,IRENE.PRICE@sakilacustomer.org,Kazakstan,77.77,2,556
+48,ANN,EVANS,ANN.EVANS@sakilacustomer.org,"Russian Federation",76.83,26,557
+224,PEARL,GARZA,PEARL.GARZA@sakilacustomer.org,India,76.78,54,558
+530,DARRYL,ASHCRAFT,DARRYL.ASHCRAFT@sakilacustomer.org,Argentina,76.77,13,559
+183,IDA,ANDREWS,IDA.ANDREWS@sakilacustomer.org,Brazil,76.77,28,559
+413,MARVIN,YEE,MARVIN.YEE@sakilacustomer.org,India,75.79,55,561
+555,DWIGHT,LOMBARDI,DWIGHT.LOMBARDI@sakilacustomer.org,"South Africa",74.83,11,562
+525,ADRIAN,CLARY,ADRIAN.CLARY@sakilacustomer.org,Italy,74.81,7,563
+191,JEANETTE,GREENE,JEANETTE.GREENE@sakilacustomer.org,"Russian Federation",74.80,27,564
+514,FRANKLIN,TROUTMAN,FRANKLIN.TROUTMAN@sakilacustomer.org,China,74.78,50,565
+464,JEROME,KENYON,JEROME.KENYON@sakilacustomer.org,Chile,73.84,3,566
+344,HENRY,BILLINGSLEY,HENRY.BILLINGSLEY@sakilacustomer.org,Tonga,73.82,1,567
+124,SHEILA,WELLS,SHEILA.WELLS@sakilacustomer.org,Turkey,73.82,14,567
+250,JO,FOWLER,JO.FOWLER@sakilacustomer.org,Nigeria,73.80,13,569
+401,TONY,CARRANZA,TONY.CARRANZA@sakilacustomer.org,Japan,73.79,30,570
+350,JUAN,FRALEY,JUAN.FRALEY@sakilacustomer.org,"Russian Federation",73.77,28,571
+557,FELIX,GAFFNEY,FELIX.GAFFNEY@sakilacustomer.org,Lithuania,73.76,1,572
+353,JONATHAN,SCARBOROUGH,JONATHAN.SCARBOROUGH@sakilacustomer.org,Mexico,72.82,28,573
+355,TERRY,GRISSOM,TERRY.GRISSOM@sakilacustomer.org,Japan,72.80,31,574
+378,EUGENE,CULPEPPER,EUGENE.CULPEPPER@sakilacustomer.org,China,71.81,51,575
+117,EDITH,MCDONALD,EDITH.MCDONALD@sakilacustomer.org,India,71.81,56,575
+320,ANTHONY,SCHWAB,ANTHONY.SCHWAB@sakilacustomer.org,"American Samoa",71.80,1,577
+162,LAUREN,HUDSON,LAUREN.HUDSON@sakilacustomer.org,France,71.80,4,577
+177,SAMANTHA,DUNCAN,SAMANTHA.DUNCAN@sakilacustomer.org,Mexico,71.77,29,579
+255,IRMA,PEARSON,IRMA.PEARSON@sakilacustomer.org,Philippines,70.82,20,580
+370,WAYNE,TRUONG,WAYNE.TRUONG@sakilacustomer.org,India,70.81,57,581
+465,FLOYD,GANDY,FLOYD.GANDY@sakilacustomer.org,Mexico,69.83,30,582
+271,PENNY,NEAL,PENNY.NEAL@sakilacustomer.org,India,68.82,58,583
+159,JILL,HAWKINS,JILL.HAWKINS@sakilacustomer.org,Austria,68.79,3,584
+218,VERA,MCCOY,VERA.MCCOY@sakilacustomer.org,Afghanistan,67.82,1,585
+164,JOANN,GARDNER,JOANN.GARDNER@sakilacustomer.org,Turkey,66.84,15,586
+458,LLOYD,DOWD,LLOYD.DOWD@sakilacustomer.org,Indonesia,66.81,14,587
+568,ALBERTO,HENNING,ALBERTO.HENNING@sakilacustomer.org,Venezuela,66.79,7,588
+492,LESTER,KRAUS,LESTER.KRAUS@sakilacustomer.org,India,65.84,59,589
+586,KIRK,STCLAIR,KIRK.STCLAIR@sakilacustomer.org,Taiwan,64.81,10,590
+252,MATTIE,HOFFMAN,MATTIE.HOFFMAN@sakilacustomer.org,"United Kingdom",64.78,9,591
+136,ANITA,MORALES,ANITA.MORALES@sakilacustomer.org,India,62.85,60,592
+110,TIFFANY,JORDAN,TIFFANY.JORDAN@sakilacustomer.org,China,59.86,52,593
+61,KATHERINE,RIVERA,KATHERINE.RIVERA@sakilacustomer.org,Switzerland,58.86,3,594
+97,ANNIE,RUSSELL,ANNIE.RUSSELL@sakilacustomer.org,Mozambique,58.82,3,595
+395,JOHNNY,TURPIN,JOHNNY.TURPIN@sakilacustomer.org,Sudan,57.81,2,596
+318,BRIAN,WYMAN,BRIAN.WYMAN@sakilacustomer.org,Poland,52.88,8,597
+281,LEONA,OBRIEN,LEONA.OBRIEN@sakilacustomer.org,China,50.86,53,598
+248,CAROLINE,BOWMAN,CAROLINE.BOWMAN@sakilacustomer.org,"United States",50.85,36,599
